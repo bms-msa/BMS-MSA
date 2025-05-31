@@ -33,6 +33,8 @@ Each group can:
 
 We welcome interest and collaboration across all sectors.
 
+This framework is presented for legal, ethical, and educational purposes. It critiques systemic harms and makes no specific accusations against any individual or company.
+
 ## License
 
 This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
